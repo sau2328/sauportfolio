@@ -1,0 +1,94 @@
+---
+title: "Saurabh Saurabh - MBA Portfolio"
+format: 
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+---
+
+# Saurabh Saurabh
+
+## About Me
+
+Hello! I'm **Saurabh Saurabh**, an MBA candidate with a passion for strategic marketing and business development. With a background in digital marketing and a focus on data-driven decision-making, I aim to drive organizational growth through innovative strategies. My goal is to bridge creativity and analytics to deliver impact business solutions.
+
+## Education
+
+- **Master of Business Administration (MBA)**  
+  UCW, Expected May 2025  
+  - Concentration: Marketing and Strategy  
+  - Relevant Coursework: Strategic Management, International Marketing, Digital Marketing  
+  
+
+- **Bachelor in civil engineering**  
+  KIET, May 2017  
+  - Graduated with Honors  
+  - Relevant Coursework: Market Research, Financial Modeling
+
+## Professional Experience
+
+### Digital Marketing Specialist (2023–2024)  
+Digital Home, Surrey  
+- Developed and executed SEO strategies, increasing organic traffic by 40% in 12 months.  
+- Managed social media campaigns across Instagram and LinkedIn, generating 500+ leads.  
+- Analyzed campaign performance using Google Analytics and SEMrush, optimizing ROI by 20%.
+
+###  Inside Sales Executive (Summer 2022)  
+Naukri.com, Noida  
+- Made outbound sales calls to job seekers and employers to
+ discuss the benefits of services and convince them to
+ purchase.   
+- Used Customer Relationship Management (CRM) tools to
+ maintain records of interactions, track leads, and manage
+ customer data.   
+- Provided post-sales support to customers, addressing issues
+ and ensuring their satisfaction with FastForward's services
+
+## Key Skills
+
+- **Strategic Marketing**: Campaign planning, market analysis, and brand positioning.  
+- **Data Analytics**: Proficient in Google Analytics, Tableau, and Excel.  
+- **Leadership**: Led cross-functional teams in high-pressure environments.  
+- **Communication**: Strong written and verbal skills for stakeholder engagement.  
+- **Technical Tools**: SEO (SEMrush, Ahrefs), Google Ads, Meta Ads.
+
+## Contact
+
+Let’s connect to discuss how I can contribute to your business goals!
+
+- **Email**: saurabh.v2328@gmail.com  
+- **LinkedIn**: [linkedin.com/in/saurabhsaurabh](https://linkedin.com)  
+- **Phone**: +6723777558  
+
+---
+
+## Appendix: LLM-Generated Draft and Commentary
+
+### LLM-Generated Draft Outline
+*Generated via Tool, e.g., Grok on 10/5/2025:*
+
+**Prompt**: “Create an outline and text for a one-page MBA student portfolio.”
+
+**Outline**:
+1. **Header**: Name and title (e.g., MBA Candidate).
+2. **About Me**: Brief introduction to background and goals.
+3. **Education**: Academic qualifications and achievements.
+4. **Experience**: Professional roles and key accomplishments.
+5. **Skills**: Core competencies relevant to business.
+6. **Contact**: Professional contact details.
+
+**Sample Text**:
+- *About Me*: “I’m a driven MBA student with expertise in marketing and analytics, aiming to create value through strategic insights.”
+- *Education*: “MBA, marketing university, 2026. Focus: Marketing. Courses: Strategic Management, Analytics.”
+- *Experience*: “Marketing Specialist at [Company], increased traffic by 30% via SEO.”
+- *Skills*: “Analytics, leadership, marketing strategy, Excel.”
+- *Contact*: “Email: example@email.com, LinkedIn: [link].”
+
+### Commentary
+I used the LLM-generated outline as a starting point because it provided a clear, professional structure for a one-page portfolio. The sample text was helpful for inspiration but was too generic, so I rewrote it to reflect my specific experiences and voice. For example, I expanded the *Experience* section to include quantifiable results (e.g., “40% traffic increase”) and tailored the *Skills* section to highlight MBA-relevant competencies like leadership and analytics. I excluded the headshot/logo option to keep the design simple and text-focused, as per the assignment’s emphasis on accessibility. The LLM’s contact section was retained but updated with placeholder details for submission.
+
+*Sources*: All content is original, with LLM assistance cited above. No external sources were used beyond Quarto documentation ([quarto.org](https://quarto.org)) for formatting guidance.
+
+---
